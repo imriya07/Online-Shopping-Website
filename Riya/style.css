@@ -95,9 +95,32 @@
 
 }
 @media(min-width:575px) and (max-width:767px){
+    .ourservices{
+        height: 1100px;
+    }
+    .portfolio{
+        height: 2200px;
+    }
+    .ourteam{
+        height: 900px;
+    }
+
 
 }
 @media(min-width:480px) and (max-width:574px){
+    .headerset h1{
+        font-size: 20px;
+    }
+    .ourservices{
+        height: 1200px;
+    }
+    .portfolio{
+        height: 1500px;
+    }
+    .ourteam{
+        height: 850px;
+    }
+
 
 }
 @media(max-width:479px){
